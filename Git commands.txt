@@ -1,0 +1,11 @@
+git remote -v
+
+git remote set-url origin https://github.com/OWNER/REPOSITORY.git
+
+git status
+
+git add .
+
+git commit -m"commit message"
+
+git push
