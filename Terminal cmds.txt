@@ -1,0 +1,5 @@
+cd = change directory
+cd .. = go back
+mkdir = create folder
+touch = create file
+mv = rename
